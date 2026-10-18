@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/mcllale">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontSize=54&height=90&width=506&text=Koketso%20Llale" alt="Koketso Llale" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontSize=54&color=white&height=90&width=506&text=Koketso%20Llale" alt="Koketso Llale" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&width=360&height=44&lines=BSc%20IT%20candidate;Data%20Science%20Bootcamp;Azure%20AI%20Certified" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=white&center=true&vCenter=true&width=360&height=44&lines=BSc%20IT%20candidate;Data%20Science%20Bootcamp;Azure%20AI%20Certified" alt="Typing headlines" />
 </p>
 
 <p align="center">
