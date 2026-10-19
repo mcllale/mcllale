@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mcllale">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontSize=54&color=white&height=90&width=506&text=Koketso%20Llale" alt="Koketso Llale" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontSize=54&height=90&width=506&text=Koketso%20Llale&" alt="Koketso Llale" />
   </a>
 </p>
 
