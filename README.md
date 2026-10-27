@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/mcllale">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontSize=54&height=90&width=506&text=Koketso%20Llale&" alt="Koketso Llale" />
+    <h1 align="center">Koketso Llale</h1>
+    <p align="center">Full Stack AI Developer</p>
   </a>
 </p>
 
