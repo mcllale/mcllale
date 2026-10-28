@@ -1,15 +1,14 @@
 <p align="center">
   <a href="https://github.com/mcllale">
-    <h1 align="center">Koketso Llale</h1>
-    <p align="center">Full Stack AI Developer</p>
+    <h1>Koketso Llale</h1>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=white&center=true&vCenter=true&width=360&height=44&lines=BSc%20IT%20candidate;Data%20Science%20Bootcamp;Azure%20AI%20Certified" alt="Typing headlines" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&width=360&height=44&lines=BSc%20IT%20candidate;Data%20Science%20Bootcamp;Azure%20AI%20Certified" alt="Typing headlines" />
 </p>
 
-<p align="center">
+<p align>
   <a href="https://linkedin.com/in/www.linkedin.com/in/koketso-llale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mcllale@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
